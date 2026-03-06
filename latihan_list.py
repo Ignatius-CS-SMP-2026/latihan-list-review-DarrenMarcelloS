@@ -39,5 +39,4 @@ nilai_lulus = []
 for nilai in nilai_ujian :
     if nilai >= 60:
         nilai_lulus.append(nilai)
-
 print("Daftar nilai yang lulus: ", nilai_lulus)
